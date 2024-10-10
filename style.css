@@ -18,7 +18,7 @@
 
   /* XXX: using px for very good precision control */
   --decorator-outer-offset-top: 10px;
-  --decorator-outer-offset-left: -5.5px;
+  --decorator-outer-offset-left: -5.2px;
   --decorator-border-width: 1px;
   --decorator-outer-dim: 9px;
   --decorator-border: 1px solid #ccc;
@@ -331,7 +331,7 @@ li{
 #contact ul{
   margin-top: 0.05in;
   padding-left: 0;
-  font-family: "Source Code Pro";
+  font-family: "arial";
   font-weight: 400;
   line-height: 1.75;
 }
@@ -364,6 +364,6 @@ li{
 #disclaimer code{
   color: #666;
   font-family: "Source Code Pro";
-  font-weight: 400;
+  font-weight: 300;
   font-style: normal;
 }
